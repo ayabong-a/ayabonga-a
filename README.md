@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a full stack developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayabong-a&layout=compact&theme=radical)
 
 ## 📫 Contact Me
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [mtsoloayabonga@gmail.com](mailto:mtsoloayabonga@gmail.com)
 - [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
 ---
