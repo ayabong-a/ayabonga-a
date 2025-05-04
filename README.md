@@ -39,6 +39,10 @@ Welcome to my GitHub profile! I'm a full stack developer.
 - Email: [mtsoloayabonga@gmail.com](mailto:mtsoloayabonga@gmail.com)
 - [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/ayabong-a/ayabong-a/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 Thanks for visiting my profile!
