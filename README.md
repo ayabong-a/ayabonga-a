@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a full stack developer.
 ### Others
 - REST APIs
 - Testing with Jasmine
-- Agile & Scrum methodologies
 
 ## 📊 GitHub Stats
 
@@ -41,7 +40,8 @@ Welcome to my GitHub profile! I'm a full stack developer.
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/ayabong-a/ayabong-a/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ayabong-a/ayabong-a/output/github-contribution-grid-snake.svg)
+
 
 ---
 
