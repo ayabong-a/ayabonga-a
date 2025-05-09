@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a full stack developer.
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/ayabong-a/ayabonga-a/output/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ayabong-a/ayabonga-a/output/github-contribution-grid-snake.svg)
 
 ---
 
